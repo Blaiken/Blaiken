@@ -6,13 +6,13 @@
 
 ###
 
-<h2 align="left">🎈 Sobre mi</h2>
-
-###
-
 <div align="center">
   <img height="200" src="https://cdn.discordapp.com/attachments/754552334465368195/1367622527571984394/natsu-natsu-dragneel.gif?ex=6815413b&is=6813efbb&hm=b1886b91850ebcd33bfaed918ecc8dd504e48e87f929e1576ddb495a3160af24&"  />
 </div>
+
+###
+
+<h2 align="left">🎈 Sobre mi</h2>
 
 ###
 
